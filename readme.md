@@ -1,4 +1,4 @@
-# [Owshn](https://owshn.com)
+# Owshn
 
 ## [Owshn](https://owshn.com) an Avalanche ecosystem discovery portal.
 
@@ -8,4 +8,4 @@ Pull requests are welcome.
 
 ---
 
-Created by [@lenguic](https://twitter.com/lenguic. Released under the MIT license.
+Created by [@lenguic](https://twitter.com/lenguic). Released under the MIT license.
