@@ -1,3 +1,0 @@
-# Pangolin
-
-Pangolin turkce...

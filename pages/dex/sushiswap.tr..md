@@ -1,3 +1,0 @@
-# SushiSwap
-
-SushiSwap turkce...

@@ -16,11 +16,11 @@ export default {
       <meta name="description" content="Owshn an Avalanche Ecosystem" />
       <meta name="og:description" content="Owshn an Avalanche Ecosystem" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://owshn.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="owshn.vercel.app" />
-      <meta name="twitter:url" content="https://owshn.vercel.app" />
+      <meta name="twitter:image" content="https://www.owshn.com/og.png" />
+      <meta name="twitter:site:domain" content="owshn.com" />
+      <meta name="twitter:url" content="https://www.owshn.com" />
       <meta name="og:title" content="Owshn an Avalanche Ecosystem" />
-      <meta name="og:image" content="https://owshn.vercel.app/og.png" />
+      <meta name="og:image" content="https://www.owshn.com/og.png" />
       <meta name="apple-mobile-web-app-title" content="Owshn" />
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png"/>
       <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png"/>
@@ -30,10 +30,6 @@ export default {
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png"/>
     </>
   ),
-  // i18n: [
-  //  { locale: 'en', text: 'English' },
-  //  { locale: 'tr', text: 'Türkçe' }
-  //  ],
   search: true,
   prevLinks: true,
   nextLinks: true,
