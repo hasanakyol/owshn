@@ -30,10 +30,10 @@ export default {
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png"/>
     </>
   ),
-  i18n: [
-    { locale: 'en', text: 'English' },
-    { locale: 'tr', text: 'Türkçe' }
-  ],
+  // i18n: [
+  //  { locale: 'en', text: 'English' },
+  //  { locale: 'tr', text: 'Türkçe' }
+  //  ],
   search: true,
   prevLinks: true,
   nextLinks: true,
