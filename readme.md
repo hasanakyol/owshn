@@ -1,6 +1,6 @@
 # Owshn
 
-## [Owshn](https://owshn.com) an Avalanche ecosystem discovery portal.
+## [Owshn](https://owshn.com) an Avalanche ecosystem discovery portal
 
 An effort to collate all the partnerships and apps built ontop of the Avalanche network.
 
