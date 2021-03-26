@@ -34,7 +34,7 @@ export default {
   ),
   i18n: [
     { locale: 'en', text: 'English' },
-    { locale: 'tr', text: '中文' }
+    { locale: 'tr', text: 'Türkçe' }
   ],
   search: true,
   prevLinks: true,
