@@ -32,10 +32,16 @@ export default {
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png"/>
     </>
   ),
+  i18n: [
+    { locale: 'en', text: 'English' },
+    { locale: 'tr', text: '中文' }
+  ],
   search: true,
   prevLinks: true,
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: true,
   footerText: <>MIT {new Date().getFullYear()} © Owshn.</>
+
+ 
 }
