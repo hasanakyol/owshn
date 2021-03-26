@@ -6,4 +6,4 @@ It aims to provide a summary and links to **all** partnership and integrations w
 
 You can contribute to this website by cloning the [Github repository](https://github.com/hasanakyol/owshn) and submitting a 'pull request'.
 
-Ideas, suggestions and criticism are all welcome.
+Ideas, suggestions and criticism are all welcome...
