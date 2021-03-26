@@ -31,9 +31,9 @@ export default {
     </>
   ),
   search: true,
-  prevLinks: true,
-  nextLinks: true,
+  prevLinks: false,
+  nextLinks: false,
   footer: true,
-  footerEditOnGitHubLink: false,
+  footerEditOnGitHubLink: true,
   footerText: <>MIT {new Date().getFullYear()} © Owshn.</>
 }
