@@ -1,6 +1,6 @@
 export default {
   repository: 'https://github.com/hasanakyol/owshn',
-  titleSuffix: ' – Owshn',
+  titleSuffix: ' – owshn.com',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Owshn</span>
@@ -34,6 +34,6 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditOnGitHubLink: true,
+  footerEditOnGitHubLink: false,
   footerText: <>MIT {new Date().getFullYear()} © Owshn.</>
 }
