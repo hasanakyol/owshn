@@ -1,11 +1,9 @@
-# [Owshn](https://owshn.com)
+# OWSHN
 
-## [Owshn](https://owshn.com) an Avalanche ecosystem discovery portal.
+OWSHN pronounced **/ˈəʊʃ(ə)n/** is an [Avalanche](https://www.avalabs.org) ecosystem discovery portal started by [@lenguic](https://www.twitter.com/lenguic).
 
-An effort to collate all the partnerships and apps built ontop of the Avalanche network.
+It aims to provide a summary and links to **all** partnership and integrations within the Avalanche ecosystem.
 
-Pull requests are welcome.
+You can contribute to this website by cloning the [Github repository](https://github.com/hasanakyol/owshn) and submitting a 'pull request'.
 
----
-
-Created by [@lenguic](https://twitter.com/lenguic. Released under the MIT license.
+Ideas, suggestions and criticism are all welcome.
