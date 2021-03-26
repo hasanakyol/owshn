@@ -1,11 +1,11 @@
 export default {
-  repository: 'https://github.com/shuding/nextra',
-  titleSuffix: ' – Nextra',
+  repository: 'https://github.com/hasanakyol/owshn',
+  titleSuffix: ' – Owshn',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
+      <span className="mr-2 font-extrabold hidden md:inline">Owshn</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Next Site Builder
+        an Avalanche Ecosystem 
       </span>
     </>
   ),
@@ -37,5 +37,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: true,
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>
+  footerText: <>MIT {new Date().getFullYear()} © Owshn.</>
 }
