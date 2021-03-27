@@ -34,6 +34,6 @@ export default {
   prevLinks: false,
   nextLinks: false,
   footer: true,
-  footerEditOnGitHubLink: true,
-  footerText: <>MIT {new Date().getFullYear()} © OWSHN</>
+  footerEditOnGitHubLink: false,
+  footerText: <>MIT Licenced {new Date().getFullYear()} © Owshn.</>
 }
